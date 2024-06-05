@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, my name is Magnus and I'm a junior software developer!
+OSes I use:
+![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu,raspberrypi,mint)
+Programming languages, frameworks and databases I use:
+![My Skills](https://skillicons.dev/icons?i=js,html,css,python,rust,react,postgres,mongodb,electron,bash)
+Tools I use:
+![My Skills](https://skillicons.dev/icons?i=vscode,vercel,supabase,replit,raspberrypi,npm,notion,github,gcp,figma,docker)
 
-<!--
-**Magnusretrotech/Magnusretrotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Find me on https://linktr.ee/Duplicake!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on cybersecurity software 
+- 🌱 I’m currently learning rust
+- 💬 Ask me about cybersecuriy
+- 😄 Pronouns: He/Him
