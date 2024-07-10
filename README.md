@@ -1,6 +1,6 @@
 ## Hi, my name is Magnus and I'm a junior software developer!
 OSes I use:
-![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu,raspberrypi,mint)
+![My Skills](https://skillicons.dev/icons?i=linux,windows,raspberrypi,fedora)
 
 Programming languages, frameworks and databases I use:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,python,rust,react,postgres,mongodb,electron,bash)
@@ -10,7 +10,9 @@ Tools I use:
 
 Find me on https://linktr.ee/Duplicake!
 
-- 🔭 I’m currently working on cybersecurity software 
+[![Magnus' GitHub stats](https://github-readme-stats.vercel.app/api?username=magnusretrotech)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 I’m currently working on cybersecurity and Linux software 
 - 🌱 I’m currently learning rust
-- 💬 Ask me about cybersecuriy
+- 💬 Ask me about cybersecurity and Linux
 - 😄 Pronouns: He/Him
