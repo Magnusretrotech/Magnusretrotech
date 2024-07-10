@@ -1,7 +1,7 @@
 ## Hi, my name is Magnus and I'm a junior software developer!
 OSes I use:
 
-![My Skills](https://skillicons.dev/icons?i=linux,windows,raspberrypi,debian)(https://fedoraproject.org/favicon.png)
+![My Skills](https://skillicons.dev/icons?i=linux,windows,raspberrypi,debian)<img src="https://fedoraproject.org/favicon.ico" alt="" title="" style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 Programming languages, frameworks and databases I use:
 
