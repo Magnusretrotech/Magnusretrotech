@@ -1,1 +1,1 @@
-## Hi, my name is Magnus and I'm a junior software developer! Please view my website: https://magnusretrotech.github.io/Website/
+## Hi, my name is Magnus! Please view my website for more info: https://magnusretrotech.github.io/Website
